@@ -1,0 +1,105 @@
+h1{
+    font-size: 40px;
+    padding: 1px;
+}
+body{
+  margin: 10px;
+  width: 100%;
+
+}
+.section-css{
+    margin: 40px;
+   
+    background-repeat: no-repeat;
+}
+.heading-color{
+    color: coral;
+}
+.heading-border{
+    border-left: 5px orangered solid;
+    margin: 0px;
+    line-height: 30px;    
+}
+.anchor-css{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(green, orange);
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+.div-flex{
+    display: flex;
+    }
+   
+.head-center{
+    text-align: center;
+}
+
+
+.parent{
+    display: flex;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-around;
+   
+
+ 
+}
+    
+img{
+    width: 400px;
+    height: 400px;
+}
+.sec-img-1{
+    width: 200px;
+    height: 200px;
+}
+.sec-img-2{
+    width: 200px;
+    height: 200px;}
+    .sec-img-3{
+        width: 200px;
+        height: 200px;}
+.div1{
+    background-color: rgb(75, 40, 75);
+     border-radius: 10px;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+  
+}
+.div2{
+    background-color: rgb(179, 176, 175);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.div3{
+    background-color: rgb(214, 106, 106);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.section-3{
+    display: flex;
+    background-image: url(./images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+}
+.div-side{
+   
+    margin: 30px;
+}
+.button{
+    color: white;
+    background-color: orangered;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 30px;
+    
+}
+.bgc{
+    background-image: url(./images/shapes/shape-6.png);
+}
